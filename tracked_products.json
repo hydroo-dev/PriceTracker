@@ -5,7 +5,7 @@
     "target_price": 3000.0,
     "current_price": 2700.0,
     "initial_price": 2700.0,
-    "last_checked": "2025-10-18T11:15:07.013562",
+    "last_checked": "2025-10-18T12:02:29.209972",
     "alert_sent": true,
     "added_on": "2025-10-18T10:10:51.202760"
   },
@@ -15,7 +15,7 @@
     "target_price": 3000.0,
     "current_price": 2797.0,
     "initial_price": 2797.0,
-    "last_checked": "2025-10-18T11:15:10.729692",
+    "last_checked": "2025-10-18T12:02:32.814213",
     "alert_sent": true,
     "added_on": "2025-10-18T10:26:41.678183"
   },
@@ -25,7 +25,7 @@
     "target_price": 1200.0,
     "current_price": 1120.0,
     "initial_price": 1120.0,
-    "last_checked": "2025-10-18T11:15:14.376271",
+    "last_checked": "2025-10-18T12:02:36.643819",
     "alert_sent": true,
     "added_on": "2025-10-18T10:30:25.492843"
   },
@@ -35,7 +35,7 @@
     "target_price": 2300.0,
     "current_price": 1802.0,
     "initial_price": 1802.0,
-    "last_checked": "2025-10-18T11:15:18.176894",
+    "last_checked": "2025-10-18T12:02:40.443892",
     "alert_sent": true,
     "added_on": "2025-10-18T10:46:59.421288"
   },
@@ -45,7 +45,7 @@
     "target_price": 6000.0,
     "current_price": 6999.0,
     "initial_price": 6999.0,
-    "last_checked": "2025-10-18T11:15:22.205009",
+    "last_checked": "2025-10-18T12:02:44.153908",
     "alert_sent": false,
     "added_on": "2025-10-18T10:51:25.080467"
   },
@@ -55,8 +55,28 @@
     "target_price": 11500.0,
     "current_price": 10499.0,
     "initial_price": 10499.0,
-    "last_checked": "2025-10-18T11:15:26.101864",
+    "last_checked": "2025-10-18T12:02:47.887120",
     "alert_sent": true,
     "added_on": "2025-10-18T11:04:02.800259"
+  },
+  {
+    "url": "https://www.flipkart.com/red-tape-full-sleeve-solid-men-jacket/p/itm58d38f1efb019?pid=JCKHCRGUMTHQAH5H&lid=LSTJCKHCRGUMTHQAH5HG9G3MG&marketplace=FLIPKART&store=clo%2Fqvw%2Fz0g%2Fjbm&srno=b_1_4&otracker=browse&fm=organic&iid=c5f3be5a-945d-43e2-9b34-7ece51890fc3.JCKHCRGUMTHQAH5H.SEARCH&ppt=browse&ppn=browse&ssid=zmt8r0vppc0000001760769071066",
+    "name": "Men Solid Bomber Jacket",
+    "target_price": 1500.0,
+    "current_price": 1439.0,
+    "initial_price": 1439.0,
+    "last_checked": "2025-10-18T12:02:51.584321",
+    "alert_sent": true,
+    "added_on": "2025-10-18T12:01:47.182314"
+  },
+  {
+    "url": "https://www.flipkart.com/red-tape-self-design-round-neck-casual-men-white-sweater/p/itm2f71dbe1d0047?pid=SWTH47SXUBEYJDHV&lid=LSTSWTH47SXUBEYJDHVZBZED6&marketplace=FLIPKART&fm=productRecommendation%2FcrossSelling&iid=R%3Ac%3Bp%3AJCKHCRGUMTHQAH5H%3Bl%3ALSTJCKHCRGUMTHQAH5HG9G3MG%3Bpt%3App%3Buid%3A260ad1f6-abec-11f0-9326-99d18657f7c3%3B.SWTH47T7QFJHUUDV&ppt=pp&ppn=pp&ssid=zmt8r0vppc0000001760769071066&otracker=pp_reco_Bought%2BTogether_5_41.productCard.PMU_TAB_RED%2BTAPE%2BSelf%2BDesign%2BRound%2BNeck%2BCasual%2BMen%2BWhite%2BSweater_SWTH47T7QFJHUUDV_productRecommendation%2FcrossSelling_1&otracker1=pp_reco_PINNED_productRecommendation%2FcrossSelling_Bought%2BTogether_GRID_productCard_cc_5_NA_view-all&cid=SWTH47T7QFJHUUDV",
+    "name": "Men Self Design Round Neck White Sweater",
+    "target_price": 999.0,
+    "current_price": 1139.0,
+    "initial_price": 1139.0,
+    "last_checked": "2025-10-18T12:02:57.509181",
+    "alert_sent": false,
+    "added_on": "2025-10-18T12:02:25.168605"
   }
 ]
